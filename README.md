@@ -28,13 +28,13 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="linkedin.com/in/prasad-nirmal-4603a8196" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/your-kaggle" target="_blank">
+  <a href="https://www.kaggle.com/prasadnirmal" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="prasadnirmal999@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
