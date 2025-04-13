@@ -28,7 +28,7 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="linkedin.com/in/prasad-nirmal-4603a8196" target="_blank">
+  <a href="https://www.linkedin.com/in/prasad-nirmal-4603a8196" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/prasadnirmal" target="_blank">
