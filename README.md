@@ -34,7 +34,7 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
   <a href="https://www.kaggle.com/prasadnirmal" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="prasadnirmal999@gmail.com">
+  <a href="/prasadnirmal999@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
