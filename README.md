@@ -16,10 +16,12 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
 
 💻 I have hands-on experience with:
 
-- System design using **Arduino** and **Raspberry Pi**
-- Developing smart solutions with **Python**, **Flask**, and **TensorFlow**
-- Building ML models for real-world problems
-- Exploring the convergence of **hardware + software** to create intelligent systems
+- **Data Analytics** using Python, Pandas, and visualization libraries like Matplotlib and Seaborn  
+- **Machine Learning & Deep Learning** using frameworks such as Scikit-learn, TensorFlow, and PyTorch  
+- **Computer Vision** applications including object detection, tracking, and image classification  
+- **IoT system development** combining AI models with **Arduino**, **Raspberry Pi**, and various sensors  
+- Web development and API creation using **Flask** and **Django**  
+- Integrating **hardware + software** to build intelligent, real-time solutions
 
 > I enjoy learning, building, and sharing what I discover — especially if it helps others grow too.
 
@@ -34,7 +36,7 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
   <a href="https://www.kaggle.com/prasadnirmal" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="/prasadnirmal999@gmail.com">
+  <a href="mailto:prasadnirmal999@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -45,16 +47,6 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,arduino,raspberrypi,linux,bash,docker,flask,django,mysql,postgres,mongodb,tensorflow,pytorch,git,vscode,kubernetes" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasad-root&show_icons=true&theme=radical" alt="Prasad's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-root&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
