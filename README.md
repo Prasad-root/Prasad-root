@@ -1,5 +1,3 @@
-<img alt="LinkedIn" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
-
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">Data Science | Machine Learning | AI + IoT Enthusiast</h3>
 
