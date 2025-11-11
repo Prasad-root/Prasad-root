@@ -6,10 +6,13 @@
   💡 Passionate about solving real-world problems using AI/ML and CV<br>
   🔬 Exploring the intersection of AI, IoT, and Embedded Systems<br>
   🚀 Self-learner | Open-source Contributor | Tech Explorer
-  <div style="align-self: flex-end;">
-    <img style="width: 40%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
- </div>
 </p>
+
+<img 
+    style="display: block; margin: 0 auto; width: 40%; max-width: 150px;" 
+    alt="Github" 
+    src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" 
+/>
 
 ---
 
