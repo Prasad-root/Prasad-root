@@ -8,11 +8,14 @@
   🚀 Self-learner | Open-source Contributor | Tech Explorer
 </p>
 
-<img 
-    style="display: block; margin: 0 auto; width: 40%; max-width: 150px;" 
-    alt="Github" 
-    src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" 
-/>
+<div style="text-align: center;">
+    <img 
+        style="width: 40%; max-width: 150px;" 
+        alt="Github" 
+        src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" 
+    />
+</div>
+
 
 ---
 
