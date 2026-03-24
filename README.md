@@ -15,7 +15,7 @@
         src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" 
     />
     <br><br>
-    <a href="https://prasad-root.github.io/Portfolio/">
+    <a href="https://prasadnirmal999999.eu.pythonanywhere.com/">
       <img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-ff5722?style=for-the-badge&logo=about-dot-me&logoColor=white" />
     </a>
 </p>
@@ -51,7 +51,7 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
   <a href="mailto:prasadnirmal999@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://prasad-root.github.io/Portfolio/">
+  <a href="https://prasadnirmal999999.eu.pythonanywhere.com/">
   <img alt="Portfolio" src="https://img.shields.io/badge/My%20Portfolio-ff5722?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
 </p>
