@@ -61,32 +61,32 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
 ### 🛠️ Tool Box
 
 <!-- Programming Languages -->
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
 <!-- Web Development -->
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vue,flask,django" />
 </p>
 
 <!-- Databases -->
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 <!-- AI / Machine Learning -->
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 <!-- Embedded / Robotics -->
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros" />
 </p>
 
 <!-- DevOps / Tools -->
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes" />
 </p>
 
