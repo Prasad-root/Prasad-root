@@ -67,7 +67,7 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
 
 <!-- Web Development -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vue,flask,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,flask,django" />
 </p>
 
 <!-- Databases -->
