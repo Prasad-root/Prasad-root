@@ -58,10 +58,36 @@ I’m a curious and driven Data Science undergraduate with a deep interest in **
 
 ---
 
-### 🛠️ Tools, Technologies & Languages
+### 🛠️ Tool Box
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,arduino,raspberrypi,linux,bash,docker,flask,django,mysql,postgres,mongodb,tensorflow,pytorch,git,vscode,kubernetes" />
+<!-- Programming Languages -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+</p>
+
+<!-- Web Development -->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,vue,flask,django" />
+</p>
+
+<!-- Databases -->
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+<!-- AI / Machine Learning -->
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<!-- Embedded / Robotics -->
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros" />
+</p>
+
+<!-- DevOps / Tools -->
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes" />
 </p>
 
 ---
